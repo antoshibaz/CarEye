@@ -13,9 +13,9 @@ recall=76.8%, precision=78.5%, f1-score=77.6%<br>
 Cascade classifier for triangular and rectangular traffic signs:<br>
 recall=80.0%, precision=81.6%, f1-score=80.8%<br>
 SVM-classifier for circular traffic signs:<br>
-precision=98.6%<br>
+accuracy=98.6%<br>
 SVM-classifier for triangular and rectangular traffic signs:<br>
-precision=97.46%
+accuracy=97.46%
 #### Test of traffic sign classifier:
 SVM-classifier:<br>
 accuracy=96.5%
