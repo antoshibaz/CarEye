@@ -20,6 +20,6 @@ precision=97.46%
 SVM-classifier:<br>
 accuracy=96.5%
 #### Perfomance test:
-CPU: Intel Core i5-4570
-RAM: 8Gb
+CPU: Intel Core i5-4570<br>
+RAM: 8Gb<br>
 Inference: 9-11 FPS (single thread)
